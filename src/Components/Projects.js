@@ -16,44 +16,44 @@ export default function Projects() {
 <br/>
 <br/>
       <div className="row">
-        <div className="column">
-          <img src="proj1.jpg" />
-          <img src="proj2.webp" />
-          <img src="proj4.jpg" />
-          <img src="proj5.jpg" />
-          <img src="proj6.jpeg" />
-          <img src="proj2.webp" />
+        <div className="column" >
+          <img className="imghover" src="proj1.jpg" />
+          <img className="imghover" src="proj2.webp" />
+          <img className="imghover" src="proj4.jpg" />
+          <img className="imghover" src="proj5.jpg" />
+          <img className="imghover" src="proj6.jpeg" />
+          <img className="imghover" src="proj2.webp" />
           {/*<img src="proj7.jpeg" />
   <img src="proj8.jpeg" />*/}
         </div>
-        <div className="column">
-          <img src="proj2.webp" />
-          <img src="proj5.jpg" />
-          <img src="proj6.jpeg" />
-          <img src="proj9.jpeg" />
-          <img src="proj2.webp" />
-          <img src="proj1.jpg" />
+        <div className="column" >
+          <img className="imghover" src="proj2.webp" />
+          <img className="imghover" src="proj5.jpg" />
+          <img className="imghover" src="proj6.jpeg" />
+          <img className="imghover" src="proj9.jpeg" />
+          <img className="imghover" src="proj2.webp" />
+          <img className="imghover" src="proj1.jpg" />
         </div>
-        <div className="column">
-          <img src="proj6.jpeg" />
-          <img src="proj5.jpg" />
-          <img src="proj2.webp" />
-          <img src="proj8.jpeg" />
-          <img src="proj9.jpeg" />
+        <div className="column" >
+          <img className="imghover" src="proj6.jpeg" />
+          <img className="imghover" src="proj5.jpg" />
+          <img className="imghover" src="proj2.webp" />
+          <img className="imghover" src="proj8.jpeg" />
+          <img className="imghover" src="proj9.jpeg" />
           
           
           
           
   </div>
-        <div className="column">
-        <img src="proj4.jpg" />
+        <div className="column" >
+        <img className="imghover" src="proj4.jpg" />
           
-          <img src="proj6.jpeg" />
-          <img src="509039.jpg" />
+          <img className="imghover" src="proj6.jpeg" />
+          <img className="imghover" src="509039.jpg" />
           
-          <img src="proj2.webp" />
-          <img src="proj4.jpg"/>
-          <img src="508835.jpg"/>
+          <img className="imghover" src="proj2.webp" />
+          <img className="imghover" src="proj4.jpg"/>
+          <img className="imghover" src="508835.jpg"/>
           
       </div>
     
